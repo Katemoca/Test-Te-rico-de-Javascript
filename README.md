@@ -5,8 +5,6 @@ Test de Platzi sobre conceptos teóricos de JavaScript
 
 ¡Es hora de poner a prueba cuánto sabes sobre JavaScript!
 
-Esta lectura es una prueba de JavaScript. A diferencia de un examen, nadie te obligará a nada. **Puedes hacer trampa y saltar a la siguiente clase**, ese es el camino fácil. Pero tengo mucha fe en ti, confío en que seguirás mis consejos y no avanzarás a la siguiente clase hasta superar esta prueba.
-
 ## Instrucciones para tomar esta prueba
 
 - Evalúa muy críticamente tu conocimiento.
